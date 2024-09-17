@@ -2,8 +2,8 @@
 
 I'm Mobile Developer in Myanmar 🌍
 
-[![Portfolio Badge](https://img.shields.io/badge/-Profile.me-f7c307?style=flat&labelColor=f7c307&logo=react&logoColor=black)](https://www.facebook.com/maungwin/)
-[![Facebook Badge](https://img.shields.io/badge/-maungwin-1874ed?style=flat&labelColor=1874ed&logo=facebook&logoColor=white)](https://www.facebook.com/maungwin/) [![Mail Badge](https://img.shields.io/badge/-mgwin.developer.2000@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mgwin.developer.2000@gmail.com)
+[![Portfolio Badge](https://img.shields.io/badge/-Profile.me-f7c307?style=flat&labelColor=f7c307&logo=react&logoColor=black)](https://www.facebook.com/khamenkhai/)
+[![Facebook Badge](https://img.shields.io/badge/-khamenkhai-1874ed?style=flat&labelColor=1874ed&logo=facebook&logoColor=white)](https://www.facebook.com/khamenkhai/) [![Mail Badge](https://img.shields.io/badge/-mgwin.developer.2000@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:khamenkhai2003@gmail.com)
 
 <!-- TODO: Add last video link -->
 
