@@ -1,6 +1,6 @@
 ## Hey, I'm Kham En Khai 🦇
 
-I'm Mobile Developer in Myanmar 🌍
+I'm Mobile Developer in Myanmar 🇲🇲
 
 [![Portfolio Badge](https://img.shields.io/badge/-Profile.me-f7c307?style=flat&labelColor=f7c307&logo=react&logoColor=black)](https://www.facebook.com/khamenkhai/)
 [![Facebook Badge](https://img.shields.io/badge/-khamenkhai-1874ed?style=flat&labelColor=1874ed&logo=facebook&logoColor=white)](https://www.facebook.com/khamenkhai/) [![Mail Badge](https://img.shields.io/badge/-khamenkhai2003@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:khamenkhai2003@gmail.com)
@@ -10,7 +10,7 @@ I'm Mobile Developer in Myanmar 🌍
 - 🔭 I’m currently working at PassionGeek | [https://passiongeek.com]
 - 🤔 I’m trying to become a software engineer.
 - 📫 How to reach me: khamenkhai2003@gmail.com
-- 😄 Pronouns: he/him.
+- 🦇 Pronouns: batman
 
 #### I can make cool things with
 
