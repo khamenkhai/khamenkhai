@@ -9,7 +9,7 @@ I'm Mobile Developer in Myanmar 🌍
 
 - 🔭 I’m currently working at PassionGeek | [https://passiongeek.com]
 - 🤔 I’m trying to become a software engineer.
-- 📫 How to reach me: mgwin.developer.2000@gmail.com.
+- 📫 How to reach me: khamenkhai2003@gmail.com
 - 😄 Pronouns: he/him.
 
 #### I can make cool things with
