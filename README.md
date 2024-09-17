@@ -1,4 +1,4 @@
-## Hey, I'm Kham En Khai 👻
+## Hey, I'm Kham En Khai 🦇
 
 I'm Mobile Developer in Myanmar 🌍
 
