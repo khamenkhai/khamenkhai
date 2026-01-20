@@ -57,6 +57,6 @@ Here are some ideas to get you started:
 ![Contribution Snake Light](https://raw.githubusercontent.com/Kaweees/Kaweees/output/github-snake-light.svg#gh-dark-mode-only)
 ![Contribution Snake Dark](https://raw.githubusercontent.com/Kaweees/Kaweees/output/github-snake-dark.svg#gh-light-mode-only)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khamenkhai&layout=compact&theme=vision-friendly-dark)
 
 
