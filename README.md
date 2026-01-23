@@ -1,17 +1,8 @@
-<!--
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h2 align="start">👋 Hi there, I'm Kham </h2>
+<h2 align="start">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+  Hi there, I'm Kham
+</h2>
 
 <p align="start">
   💻 Software Developer | 🎨 Passionate About Clean Code
@@ -26,20 +17,9 @@ Here are some ideas to get you started:
 
 ---
 
-### 🏢 Work Experience
-
-| Company        | Role                         | Duration |
-|----------------|------------------------------|------|
-| **TTES**       | Mobile Developer             | Oct 2022 - Apr 2024   |
-| **FreshMoe**   | Software Developer             | May 2024 - Aug 2025  |
-| **OBS**        | Mobile Developer             | Sep 2025 - Present    |
-| **Freelancer** | Mobile & Backend Developer   | 2023 - Present    |
 
 
----
-
-
-<h4 align="start">🧠 I can make cool things with</h4>
+<h4 align="start">💻 Tech Stack</h4>
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -54,9 +34,11 @@ Here are some ideas to get you started:
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
+
+
+
 ![Contribution Snake Light](https://raw.githubusercontent.com/Kaweees/Kaweees/output/github-snake-light.svg#gh-dark-mode-only)
 ![Contribution Snake Dark](https://raw.githubusercontent.com/Kaweees/Kaweees/output/github-snake-dark.svg#gh-light-mode-only)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khamenkhai&layout=compact&theme=vision-friendly-dark)
 
 
